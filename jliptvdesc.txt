@@ -1,6 +1,1 @@
-'What\'s new?
-\n
- \t* Bug fixes and performance improvements.
-\n
-Buy Me a Coffee\n
-GCash: 09351180083'
+What\\'s new?\\n \\t* Bug fixes and performance improvements.\\nBuy Me a Coffee\\nGCash: 09351180083";
