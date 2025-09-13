@@ -63,7 +63,10 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=mysecret
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=don%27tdaretodream&channel_id=newid_167&mpf=074325d4-39af1962-f400fbab&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=432a7670-61d23549-11b4dfa6-16a2afe5&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appn
 
 
-﻿#EXTM3U url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Roku/all.xml"
+
+
+
+
 #EXTINF:-1  tvg-name="ABC7 Sarasota" tvg-id="50b18dea9c5c51568c1343fcd3d88ec9" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/50b18dea9c5c51568c1343fcd3d88ec9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1746557592232_WWSB_EPG_Hud_LogoWWSB_HUD_logo_260x147_Centered.png" tvg-chno="4162" group-title="RokuTV",ABC7 Sarasota
 https://jmp2.uk/rok-50b18dea9c5c51568c1343fcd3d88ec9.m3u8
 #EXTINF:-1  tvg-name="About K-Content by CJ ENM" tvg-id="ed1ad60fa9a05f34bf5d4e8b09460d6b" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/ed1ad60fa9a05f34bf5d4e8b09460d6b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1665780149983_INFO_HUD_72dpi_copy.png" tvg-chno="393" group-title="RokuTV",About K-Content by CJ ENM
